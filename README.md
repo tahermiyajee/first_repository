@@ -1,2 +1,2 @@
 # progam_1
-this is mu first python project
+this is my first python project
